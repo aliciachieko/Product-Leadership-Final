@@ -6,9 +6,9 @@
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | We bet delivering support at the right moment will increase successful re-engagement for post-acute users, helping move KR3 from 30% to 55%. | PM2 (Retention) | KR3: 30% → 55% |
-| Now (0 to 3 mo) | We bet providing guidance grounded in a user's personal history will increase confidence and proactive stress management for post-acute users, helping move KR1 from 42% to 65% and KR2 from 25% to 50%. | PM3 (AI Check-ins) | KR1: 42% → 65%; KR2: 25% → 50% |
-| Now (0 to 3 mo) | We bet helping users understand Fable's value beyond acute recovery will increase long-term retention and return behavior for post-acute users, helping move KR3 from 30% to 55%. | PM2 (Retention) | KR3: 30% → 55% |
+| Now (0 to 3 mo) | We bet delivering support at the right moment will increase successful re-engagement for post-acute users, helping move KR3 from 30% to 55%. | PM2 (Retention) | KR3: 30%, 55% |
+| Now (0 to 3 mo) | We bet providing guidance grounded in a user's personal history will increase confidence and proactive stress management for post-acute users, helping move KR1 from 42% to 65% and KR2 from 25% to 50%. | PM3 (AI Check-ins) | KR1: 42%, 65%; KR2: 25%, 50% |
+| Now (0 to 3 mo) | We bet helping users understand Fable's value beyond acute recovery will increase long-term retention and return behavior for post-acute users, helping move KR3 from 30% to 55%. | PM2 (Retention) | KR3: 30%, 55% |
 | Next (3 to 6 mo) | We bet creating a smoother transition from acute support to resilience support will increase long-term retention for users recovering from anxiety and stress. | PM2 (Retention) | Long-term retention increases for users recovering from anxiety and stress |
 | Next (3 to 6 mo) | We bet identifying recurring stress patterns earlier will increase proactive intervention for users before they become overwhelmed, helping move KR2. | PM3 (AI Check-ins) | KR2 moves up (no target stated) |
 | Next (3 to 6 mo) | We bet extending timely support into lightweight companion experiences will improve re-engagement for post-acute users without increasing dependency, helping move KR3. | PM2 (Retention) | KR3 moves up without increased dependency (no target stated) |
